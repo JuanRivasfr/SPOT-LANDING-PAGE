@@ -10,9 +10,8 @@
 
   ---
 </div>
----
 <div align="center">
-  <h3>📍 El SPOT está listo. ¿Y tú?</h3>
+  <h3>El SPOT está listo. ¿Y tú?</h3>
   <p>SPOT © 2026 - Made with ❤️ in Santander</p>
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/spot.uss)
+  <a href="https://instagram.com/spot.uss" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram SPOT" /></a>
 </div>
