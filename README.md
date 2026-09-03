@@ -8,14 +8,6 @@
 
   <p><b>¿Cansado del "no hay nada que hacer" o de terminar siempre en los mismos tres lugares? Nosotros también. Por eso estamos creando SPOT.</b></p>
 
-  <p>
-    <a href="#-el-problema">El Problema</a> •
-    <a href="#-la-solución-spot">La Solución</a> •
-    <a href="#-tecnologías-el-motor">Tecnologías</a> •
-    <a href="#-objetivos-del-proyecto">Objetivos</a> •
-    <a href="#-equipo">Equipo</a>
-  </p>
-
   ---
 </div>
 
@@ -39,7 +31,7 @@ No somos otro mapa estático ni otra agenda de eventos olvidada. Estamos constru
 
 ---
 
-## 👥 síguenos y entérate de todo!
+## 👥 Síguenos y entérate de todo!
 
 * [@spot.uss] 
 
