@@ -10,13 +10,9 @@
 
   ---
 </div>
-
-## 👥 Síguenos y entérate de todo!
-
-* [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/spot.uss) [@spot.uss](https://instagram.com/spot.uss) 
-
 ---
 <div align="center">
   <h3>📍 El SPOT está listo. ¿Y tú?</h3>
   <p>SPOT © 2026 - Made with ❤️ in Santander</p>
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/spot.uss)
 </div>
