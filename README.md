@@ -11,32 +11,12 @@
   ---
 </div>
 
-## 🤔 El Problema
-
-La ciudad tiene una energía increíble, pero...
-
-* Los **planes brutales** están escondidos o solo te enteras por un "boca a boca" si tienes suerte.
-* Los **negocios locales** con propuestas únicas luchan por visibilidad frente a las grandes cadenas.
-* Perdemos horas haciendo *scroll* sin sentido buscando **experiencias reales**, no solo fotos bonitas.
-
----
-
-## 🚀 La Solución: SPOT
-
-No somos otro mapa estático ni otra agenda de eventos olvidada. Estamos construyendo una **plataforma viva y centralizada** que conecta a las personas con los **SPOTS** de la ciudad.
-
-<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWlodml0YjhxczB4ZHFrbTR4Z25mMGsydWx0MGV1MW0ydmx1Z2szOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/unQ3IJU2rg7686mEM4/giphy.gif" width="60%" alt="Coding GIF" style="border-radius: 10px; margin: 20px 0;"/>
-</div>
-
----
-
 ## 👥 Síguenos y entérate de todo!
 
-* [@spot.uss] 
+* [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/spot.uss) [@spot.uss](https://instagram.com/spot.uss) 
 
 ---
 <div align="center">
-  <h3>📍 El **SPOT** está listo. ¿Y tú?</h3>
+  <h3>📍 El SPOT está listo. ¿Y tú?</h3>
   <p>SPOT © 2026 - Made with ❤️ in Santander</p>
 </div>
